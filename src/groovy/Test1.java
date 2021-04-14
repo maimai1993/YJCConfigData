@@ -17,7 +17,7 @@ public class Test1 {
 
     public static  void merge(int A[], int m, int B[], int n) {
 
-
+        System.out.println("mammamam");
 
 //        for(int i=0;i<n;i++){
 //            A[m+i]=B[i];
